@@ -102,5 +102,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# Protect discord api token
+settings.py
 
 # End of https://www.gitignore.io/api/python
